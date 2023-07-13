@@ -1,0 +1,36 @@
+body
+{
+    background: black;
+}
+h1
+{
+    background:yellow;
+    color:red;
+    height: 100px;
+    text-align:center ;
+    padding-top: 50px;
+
+}
+h3{
+    background-color: aliceblue;
+    color: black;
+    text-align: center;
+    padding: 50px;
+    font-size: xx-large;
+}
+div{
+    background-color: red;
+    height: 50px;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    padding-top: 30px; 
+    font-size: xx-large;
+}
+p{
+    text-align: center;
+    padding-top: 35spx;
+    font-size: x-large;
+    font-weight: bolder;
+
+}
